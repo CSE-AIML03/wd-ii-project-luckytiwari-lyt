@@ -1,0 +1,6 @@
+{
+  "name": "Amazon Clone",
+  "description": "An interactive React and Tailwind CSS beginner Amazon UI clone featuring responsive browsing, product search, categories, live shopping cart, detailed product drawer, and order simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
